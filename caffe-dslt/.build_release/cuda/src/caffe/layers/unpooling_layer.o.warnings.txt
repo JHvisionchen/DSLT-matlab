@@ -1,0 +1,30 @@
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+          detected during instantiation of "void caffe::UnpoolingLayer<Dtype>::Forward_gpu(const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &, const std::vector<caffe::Blob<Dtype> *, std::allocator<caffe::Blob<Dtype> *>> &) [with Dtype=float]" 
+(290): here
+
+src/caffe/layers/unpooling_layer.cu(100): warning: variable "pool_size" was declared but never referenced
+
